@@ -11,3 +11,31 @@
   src: url(../assets/fonts/SpaceMono/SpaceMono-Bold.ttf);
   weight: 700;
 }
+
+/* CSS RESET */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font: inherit;
+}
+
+/* CSS VARIABLES */
+:root {
+  /* COLORS */
+  --clr-primary: hsl(172, 67%, 45%);
+  --clr-800: hsl(183, 100%, 15%);
+  --clr-600: hsl(184, 14%, 56%);
+  --clr-500: hsl(185, 41%, 84%);
+  --clr-200: hsl(189, 41%, 97%);
+  --clr-100: hsl(0, 0%, 100%);
+
+  /* FONT FAMILY */
+  --ff: "SpaceMono";
+
+  /* FONT WEIGHTS */
+  --fw-400: 400;
+  --fw-700: 700;
+}
