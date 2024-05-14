@@ -1,0 +1,13 @@
+/* LINK TO GOOGLE FONTS */
+
+@font-face {
+  font-family: "SpaceMono";
+  src: url(../assets/fonts/SpaceMono/SpaceMono-Regular.ttf);
+  weight: 400;
+}
+
+@font-face {
+  font-family: "SpaceMono";
+  src: url(../assets/fonts/SpaceMono/SpaceMono-Bold.ttf);
+  weight: 700;
+}
