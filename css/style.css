@@ -35,6 +35,12 @@
   /* FONT FAMILY */
   --ff: "SpaceMono";
 
+  /* FONT SIZES */
+  --fs-small: 1rem;
+  --fs-medium: 1.125rem;
+  --fs-large: 1.5rem;
+  --fs-x-large: 1.75rem;
+
   /* FONT WEIGHTS */
   --fw-400: 400;
   --fw-700: 700;
